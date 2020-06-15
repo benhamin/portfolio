@@ -12,7 +12,7 @@ class Utils:
 
   @staticmethod
   def print_to_console(text, level):
-    if level >= Utils.DEBUG_LEVEL: #make this false
+    if level >= Utils.DEBUG_LEVEL:
       pprint(text)
     else:
       pass

@@ -11,3 +11,8 @@ PDF Rotator:
 This is a simple tool that rotates the input PDF.
 
 Tags: PDF, GUI
+
+Delete Excel Rows Based on Order Number
+Simple tool to delete a row based on order number.
+
+Tags: Excel, COM
