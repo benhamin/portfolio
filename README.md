@@ -16,4 +16,7 @@ Tags: PDF, GUI
 ## Delete Excel Rows Based on Order Number
 Simple tool to delete a row based on order number.
 
+## PDF Split and Merge
+Simple tool to split a page and then merge it.
+
 Tags: Excel, COM
