@@ -3,3 +3,6 @@
 ## Fetch JSON
 This is a Google App Script to fetch Data from a JSON file.
 This is specifically made for fixer.io REST API.
+
+## Attendance Extractor
+This will be used as a Monthly attendance extractor.
