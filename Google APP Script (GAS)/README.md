@@ -1,6 +1,7 @@
 # Google APP Script Portfolio
 
 ## Pokemon Fetch
+![](pokemon.gif)
 Fetches list of pokemon generations by using the public PokeAPI REST framework API
 This will create a new sheet and populate the data and then format it.
 
